@@ -1,0 +1,2000 @@
+12-hour clock                       12 saatlik zaman biçimi(IBM)
+12-hour time format                 12 saatlik zaman biçimi(IBM)
+24-hour clock                       24 saatlik zaman biçimi(IBM)
+24-hour time format                 24 saatlik zaman biçimi(IBM)
+A4 letter                           A4 Mektup(MAC)
+A4 small                            A4 küçük(MS)
+abbreviate                          kisaltmak(IBM)
+abbreviated                         kisaltilmis(MS)
+abbreviation                        kisaltma(MS)
+abnormal end(abend)                 olagandisi son(IBM)
+abort                               durdur(MAC) durdurmak(IBM);(tamamlanmadan)
+abort action                        islemi durdur(MS)
+abort sequence                      durdurma dizisi(IBM)
+aborted connection                  durdurulmus baglanti(IBM)
+about                               hakkinda(MAC)(MS)
+Above                               Yukarida(MS)
+ABS()                               MUT()(MS)
+absolute                            mutlak(IBM)(MS)
+absolute address                    mutlak adres(IBM)
+absolute device                     mutlak aygit(IBM)
+absolute positioned object          mutlak konumlu nesne(MS)
+absolute positioned paragraph       mutlak konumlu paragraf(MS)
+absolute positioning                mutlak konumlama(IBM)
+absolute priority                   mutlak öncelik(IBM)
+Absolute reference                  Mutlak referans(MS)
+abstract                            soyut(IBM)(MS)
+acceleration                        ivme(IBM)
+accelerator card                    hizlandirici kart(MAC)
+accelerator key                     hizlandirma tusu(IBM)
+accept                              onayla(MAC) kabul etmek(IBM)
+Accept Revisions                    Degisiklikleri Benimse(MS)
+access                              erisim(MAC) erisim, erismek(IBM)
+access barred                       erisim engelli(IBM)
+access code                         erisim kodu(IBM)(MS)
+access control key                  erisim denetim anahtari(IBM)
+access control list                 erisim denetim listesi(IBM)
+access control lock                 erisim denetim kilidi(IBM)
+access list                         erisim listesi(IBM)
+access lock                         erisim kilidi(IBM)
+access number                       erisim numarsi(MAC)
+access privileges                   erisim ayricaliklari(MAC)
+access time                         erisim suresi(MAC)
+accessory                           donati(MAC)(MS) aksesuvar(IBM)
+account file                        hesap kutugu(IBM)
+accounting                          muhasebe(IBM)
+accumulate                          biriktirmek(IBM)
+accumulator                         biriktirici(IBM)
+accuracy                            dogruluk(IBM)
+acknowledge                         alindi, alindilama(MAC) alindi-(IBM)
+acknowledgement                     alindi bildirimi(IBM)
+acoustic                            akustik(MAC)(IBM)
+acoustic coupler                    akustik baglayici(MAC)
+acoustic coupling                   akustik baglama(MAC)
+acquire                             edinmek(IBM)
+acronym                             kisaltma(MAC) kisaad(IBM) kisa ad(MS)
+action                              islem(IBM)
+action bar                          menü çubugu(IBM)
+action bar pull-down                çekmenü(IBM)
+action item                         geregi beklenen öge(IBM)
+action list                         islem listesi(IBM)
+action message                      islem iletisi(IBM)
+action-object oriented              islem-nesne yönelimli(IBM)
+activate                            etkinlestirme(MAC)(MS);etkinlestirmek, baslatmak(IBM)
+activate a window                   pencereyi etkinlestirmek(MS)
+ACTIVATE RULER(Keyname)             CETVELi ETKiNLEPTiR(MS)
+activation                          etkinlestirme(IBM)
+activator                           etkinlestirici(IBM)
+active                              etkin(MAC)(IBM)(MS)
+Active Button                       Etkin Dügme(MS)
+active file                         etkin dosya(MS)
+active line                         etkin hat(IBM)
+active link                         etkin baglanti(IBM)
+active page                         yürürlükteki sayfa(IBM)
+active program                      çalismakta olan program(IBM)
+Active selection                    Etkin seçim(MS)
+active window                       etkin pencere(IBM)(MS)
+activity                            etkinlik(IBM)
+actual parameter                    gerçek parametre(MAC)
+actuator                            mantiksal sürücü(IBM)
+adapter                             bagdastirici(IBM)(MS)
+adaptor                             bagdastirici(MAC)
+ADB                                 ADB(MAC)
+add                                 eklemek, toplamak(IBM)(MAC) ekle(MS)
+add authority                       ekleme yetkisi(IBM)
+Add fonts                           Yazitipi ekle(MS)
+Add Left Border                     Sol Kenar Çizgisi Ekle(MS)
+Add printer driver                  Yazici sürücüsü ekle(MS)
+Add queue driver                    Kuyruk sürücüsü ekle(MS)
+Add Revision Marks                  Degisiklik imleri Ekle(MS)
+Add Right Border                    Sag Kenar Çizgisi Ekle(MS)
+Add To Dictionary                   Sözlüge Ekle / Kat(MS)
+Add to Template                     Pablona Ekle / Kat(MS)
+Added Features                      Eklenmis Özellikler(MS)
+added value                         katma deger(IBM)
+addend                              toplanan(IBM)
+addenda dictionary                  ek sözlük(IBM)
+Addition(re: math. function)        Toplama(MS)
+additional features                 ek özellikler(MS)
+address                             adres(MAC)(IBM)(MS)
+address bus                         adres yolu(MAC)
+Address field                       Adres alani(MS)
+Address labels                      Adres etiketleri(MS)
+address translation                 adres dönüstürme(IBM)
+addressee                           alici(IBM)
+addrout file                        kayit adres kütügü(IBM)
+adhoc(query)                        plansiz(sorgu)(IBM)
+adjacent                            bitisik(IBM)
+adjacent columns                    bitisik sütunlar(MS)
+adjust                              ayarlamak(IBM) ayarla(MS)
+administrator                       yönetici(MAC)
+adopt                               edinmek(IBM)
+adopted authority                   geçici yetki(IBM)
+advance                             ilerlemek, ilerletmek(IBM)
+advanced                            gelismis(MAC) ileri, gelismis(IBM)
+advanced function printing          gelismis islevli yazma(teknigi)(IBM)
+advanced function printing data     stream   gelismis islevli yazma veri akimi(IBM)
+advanced printer function           gelismis yazici islevi(IBM)
+affinity user                       adina çalisilan kullanici(IBM)
+After                               Sonra(MS)
+after-image                         degisiklik sonrasi kopya(IBM)
+Afternoon format(re: time)          Ögleden sonra biçimi (saat gösterimi)(MS)
+Again/ repeat last action           Yinele (son islemi)(MS)
+aggregate                           küme, kümelemek(IBM)
+AIX(ADVANCED INTERACTIVE EXECUTIVE) AIX(ileri Etkilesimli Yönetici)(IBM)
+alarm                               uyari(IBM) Alarm(MS)
+alarm clock                         çalar saat(MAC)
+alert                               uyari(MAC) uyari, uyarmak(IBM)
+Alert box                           Uyari kutusu(MS)
+algorithm                           algoritma(MAC)(IBM)
+alias                               arma(MAC) diger ad(IBM)
+align                               hizala(MAC) hizalamak(IBM)
+align center                        ortala(MAC)
+align graphic                       grafigi hizla(MAC)
+align left                          sola hizala(MAC)
+align middle                        ortaya hizala(MAC)
+align objects                       nesneleri hizala(MAC)
+align right                         saga hizala(MAC)
+align to grid                       kilavuz çizgisine hizala(MAC)
+Aligned                             Hizali(MS)
+alignment                           hizalama(MAC)(MS)
+Alignment icons                     Hizalama simgeleri(MS)
+all                                 tümü, tümünü(MAC)
+all authority                       tam yetki(IBM)
+All Caps                            Tümü Büyük Harf(MS)
+All Drives                          Tüm Sürücüler(MS)
+All Local Drives                    Tüm Yerel Sürücüler(MS)
+all object authority                tüm nesne yetkisi(IBM)
+all rights reserved                 tüm haklari saklidir(MAC)
+all-points addressable              tüm noktalari adreslenir(IBM)
+allocate                            ayirmak(IBM) Ayir(MS)
+allocation unit                     yerlesim birimi(IBM)
+allowable                           izin verilen(MS)
+alphabetic                          alfabetik(IBM)(MS)
+Alphabetic numbers                  Alfabetik rakamlar(MS)
+alphameric                          alfanumerik(IBM)
+alphanumeric                        alfasayisal(MAC)(IBM)(MS)
+alphanumeric cursor                 alfasayisal imleç(IBM)
+Alphanumeric sort                   Alfasayisal sira(MS)
+Alphanumeric sorting                Alfasayisal siralama(MS)
+Alphanumeric/Numeric/Date           Alfasayisal/Sayisal/Tarih(MS)
+already downloaded                  önceden yüklenmis(MS)
+ALT                                 ALT(MS)
+Alt Graphics state                  Alt Graphics durumu(IBM)
+Alt key                             Alt tusu(MS)
+Alt state                           Alt durumu(IBM)
+Alt-key combinations                Alt-tusu kombinasyonlari(MS)
+Alter(to)                           Degistirmek(MS)
+alternate                           almasik(MAC) yedek, seçenek(IBM)
+alternate character set             almasik karakter seti(MAC)
+alternate code page                 diger kod sayfasi(IBM)
+alternate collating sequencc        diger birlestirme sirasi(IBM)
+alternate current                   alternatif akim(MAC)
+alternating                         degisen(IBM)
+alternative                         seçenek(IBM)
+alternative collating sequence      diger birlestirme sirasi(IBM)
+alternative interfaces              alternatif arabirimler(MS)
+alternative set                     alternatif küme(MS)
+alternative shift                   ek tus islemi(IBM)
+Ampersand                           Ampersan(MS)
+amplifier                           yükseltici(IBM)
+amplitude                           genlik(IBM)
+analog                              örneksel(MAC)(IBM)
+analog data                         örneksel veri(MAC)
+analog signal                       örneksel im(MAC)
+analog transmission                 örneksel gönderim(MAC)
+analog-to-digital converter(ADC)    örneksel-sayisal-çevirici(MAC)
+analysis                            çözümleme(IBM)
+analyzer                            çözümleyici(IBM)
+anchor characters                   saptama karakterleri(MS)
+anchor point                        saptama noktasi(IBM)(MS)
+Animate(to)                         Canlandir(mak)(MS)
+animation                           canlandirma(MAC)(IBM)
+annotation                          ek açiklama(IBM)(MS)
+Annotation mark                     Ek açiklama imi(MS)
+Annotation mark number              Ek açiklama imi numarasi(MS)
+Annotation pane                     Ek açiklama penceresi(MS)
+Annotation reference mark           Ek açiklama referans imi(MS)
+Annotation reference(Style)         Ek açiklama referansi (Biçem)(MS)
+Annotation text(Style)              Ek açiklama metni (Biçem)(MS)
+ANSI                                ANSI(MS)
+ANSI character set                  ANSI karakter kümesi(MS)
+ANSI characters                     ANSI karakterleri(MS)
+answerback                          karsilik verme(IBM)
+anticipatory buffering              önceden ana bellege alma(IBM)
+anticipatory paging                 önceden sayfalama(IBM)
+anticlockwise                       saatin tersi ynünde(MAC)
+antistatic                          duragan olmayan(MAC)
+Antonyms                            Zit anlamlilar(MS)
+aperture                            açiklik(IBM)
+API                                 UPA(MS)
+API(App. Programming Interface)     API(Uygulama Programi Arabirimi)(IBM)
+APO(Absolute Positionned Objects)   MKN(MS)
+apostrophe                          kesme imi(IBM)
+APPC                                APPC(gelistirilmis programdan programa iletisim)(IBM)
+appearance                          görünüs(MS)
+append                              sonuna ekleme(MAC) (MS) sona eklemek(IBM)
+appendices                          ekler(MS)
+appendix                            ek(MAC)(IBM)
+Apple desktop bus                   Apple masaüstü yolu(MAC)
+Apple events                        Apple olaylari(MAC)
+Apple Extended Keyboard             Apple Genisletilmis Klavye(MAC)
+Apple key                           Elma tusu(MAC)
+Apple menu                          Elma menüsü(MAC)
+Apple Menu Items                    Elma Menüsü Ögeleri(MAC)
+Applet                              Uygulamacik(MS)
+AppleTalk                           AppleTalk(MAC)
+AppleTalk Network System            AppleTalk Ag Sitemi(MAC)
+application                         uygulama(MAC)(IBM)(MS)
+application enabling                uygulama altyapisi saglama(IBM)
+Application icon                    Uygulama simgesi(MS)
+Application INI file                Uygulama(nin) INI dosyasi(MS)
+application integrity               uygulama bütünlügü(IBM)
+application object                  uygulamanin sundugu nesne(IBM)
+application operator                Uygulama isletmeni(MS)
+application program                 uygulama programi(IBM)(MS)
+application requester               uygulama isteginde bulunan program(IBM)
+application server                  uygulama istegini karsilayan program(IBM)
+application software                uygulama yazilimi(IBM)(MS)
+application space                   uygulama bellegi(MAC)
+Application window                  Uygulama penceresi(MS)
+apply                               uygulamak(MAC)(MS)
+Apply a style                       Biçem uygula(MS)
+apply format(to)                    Biçim uygula(mak)(MS)
+Applying a font                     Yazitipi uygulama(MS)
+applying styles                     geçerli biçemler(MS)
+APPN                                APPN(gelistirilmis esdüzeyde iletisim)(IBM)
+approximate                         yaklasik(IBM)
+approximate size                    yaklasik büyüklük(MAC)
+Arabic                              Arapça(MAC)
+arabic number                       normal rakam(MS)
+arabic number format                normal rakam biçimi(MS)
+Arabic numerals                     Normal rakamlar(MS)
+Arabic page numbers                 Normal rakamla sayfa numaralari(MS)
+arbitrary                           keyfi(MS)
+arc                                 yay(MAC)
+architecture                        mimari(IBM)
+archive                             belgelik(MAC) arsiv(IBM)
+area                                alan(IBM)(MAC)(MS)
+area chart                          alan grafik(MAC)
+area name                           alan adi(MS)
+area pattern                        alan örüntüsü(MS)
+argument                            bagimsiz degiske(MAC) argüman(IBM)(MS)
+arithmetic                          aritmetik(IBM)(MS)
+arithmetic expression               aritmetik ifade(MAC)
+arithmetic operation                aritmetik islem(MAC)
+arithmetic operator                 aritmetik isleç(IBM)(MAC)(MS)
+arrange                             düzenleme, yerlestirme(MAC)
+Arrange All                         Tümünü Düzenle / Yerlestir(MS)
+Arranging Windows                   Pencereleri Düzenleme / Yerlestirme(MS)
+array                               dizi(IBM)(MAC)(MS)
+arrival sequence access path        gelis sirali erisim yolu(IBM)
+arrow                               ok(MAC)(MS)
+arrow head                          ok basi(MS)
+Arrow key                           ok tusu(MS)(MAC)
+article                             tanimlik(IBM)
+artificial                          yapay(IBM)
+artificial intelligence             yapay us(MAC)
+artwork                             çizim(IBM)
+As of last update                   Son durumdaki gibi(MS)
+as typed                            yazildigi gibi(MS)
+ascender                            Satirin tepesine kadar uzantisi olan harf(MS)
+ascending                           artan(MAC)(MS) yükselen(IBM)
+Ascending order                     Artan sira(MS)
+ascent                              çikis(MAC)
+ascent line                         çikis çizgisi(MAC)
+ASCII                               ASCII(MAC)(ms)
+ASCII Files                         ASCII Dosyalar(MS)
+ASCII text file                     ASCII metin dosyasi(MS)
+aspect ratio                        en-boy orani(MAC) en boy orani(IBM
+assemble                            çevirmek(IBM) birlestirmek / kurmak(MS)
+assembler                           çevirici(IBM)(MAC)
+assembler statement                 çevirici deyimi(IBM)
+assembly                            çevirici(IBM)
+assembly language                   çevirici dili(IBM)
+assign                              atamak(IBM)(MS)
+assign a level(outline)             düzey ata(ana hatlar)(MS)
+Assign Key to Style                 Biçeme Tus Ata(MS)
+Assign Macro Name                   Makro Adi Ata(MS)
+Assign to Key                       Tusa Ata(MS)
+Assign to Menu                      Menüye Ata(MS)
+assistance                          yardim(IBM)
+associate                           iliskilendirilmis, iliskilendirmek(IBM)
+associated with ..                  ile iliskili / iliskilendirilmis(MS)
+association                         iliskilendirme(MS)
+associative                         iliskili(IBM)
+assume                              varsaymak(IBM)
+assumed value                       varsayilan deger(IBM)
+assurance                           güvence(IBM)
+Asterisk                            Yildiz isareti(MS)
+asterisk( )                         yildiz( )(MAC)
+asymmetric                          bakisimsiz(IBM)
+asynchronous                        zaman uyumsuz(MS)
+asynchronous execution              zamanuyumsuz yürütme(MAC)
+asynchronous transmission           zamanuyumsuz gönderim(MAC)
+At Column                           Sütunda(MS)
+At line                             Satirda(MS)
+ATM                                 otomatik vezne(IBM)
+atomic operation                    atomik islem(IBM)
+attach                              ilistirme(MAC) baglamak(IBM) ilistir(MS)
+attachment                          baglanti(IBM)
+attended operation                  gözetimli isletim(IBM)
+attention                           uyari(IBM)
+attenuation                         zayiflama(IBM)
+attribute                           öznitelik(IBM)(MAC)
+audible                             sesli(IBM)
+audible alarm                       sesli uyari(IBM)
+audible signal                      isitilebilir im(MAC)
+audio                               isitsel(IBM)
+audit                               denetlemek(IBM)
+audit window                        denetim penceresi(IBM)
+Australian Englis                   Avusturalya ingilizcesi(MAC)
+authentication                      dogrulama(IBM)
+Author                              Yazar(MS)
+authorities                         kaynakça(MS)
+authority                           yetki(IBM)
+Authority Entry                     Kaynakça Girdisi / Ögesi(MS)
+authorization list                  yetki listesi(IBM)
+authorize                           yetki vermek(IBM)
+authorized Apple dealer             yetkili Apple saticisi(MAC)
+Auto                                Otomatik(MS)
+auto adjust                         özdevimli ayar(MAC)
+auto answer                         özdevimli yanit(MAC)
+auto attribute                      özdevimli öznitelik(MAC)
+auto call                           özdevimli çagirma(MAC)
+auto increment                      özdevimli artir(MAC)
+Auto link                           Otomatik bag / baglanti(MS)
+auto logon                          özdevimli baglanti(MAC)
+Auto Macros                         Otomatik Makrolar(MS)
+auto repaginate                     otomatik(yeniden) sayfalama(MS)
+auto repeat                         özdevimli yineleme(MAC) otomatik yineleme(MS)
+Auto select                         Otomatik seçme(MS)
+Auto Update                         Otomatik güncellestirme(MS)
+Auto update link                    Otomatik güncellestirme bagi(MS)
+auto(single) space icon             otomatik aralama simgesi(MS)
+auto-dim                            otomatik görüntü karartma(IBM)
+auto-dim interval                   karartma için bekleme süresi(IBM)
+Auto-feed                           otomatik besleme(MS)
+Auto-numbered Reference             Otomatik numaralandirilmis referans(MS)
+Auto-scale                          Otomatik ölçeklendirme(MS)
+AutoClose macro                     KendKapat(makro)(MS)
+AutoDelete macro                    KendSil(makro)(MS)
+Autoexec Macro                      KendÇalis(makro)(MS)
+AutoExit macro                      KendÇik(makro)(MS)
+automated teller machine            otomatik vezne(IBM)
+automatic                           özdevimli(MAC) otomatik(IBM)(MS)
+automatic bind(SQL)                 otomatik baglama(IBM)
+Automatic break                     Otomatik kesme(MS)
+Automatic Footnote                  Otomatik Dipnot(MS)
+Automatic footnote references       Otomatik dipnot referanslari(MS)
+automatic format                    Otomatik biçim(MS)
+automatic formatting                Otomatik biçimlendirme(MS)
+automatic hyphenation               Otomatik tireleme(MS)
+automatic numbering                 Otomatik numaralama(MS)
+automatic numbering fields          Otomatik numaralama alanlari(MS)
+automatic page break                Otomatik sayfa basi / sonu(MS)
+automatic page number               Otomatik sayfa numarasi(MS)
+automatic processes                 Otomatik islemler(MS)
+automatic ranging                   otomatik yayilma(IBM)
+Automatic replacements              Otomatik degistirmeler(MS)
+automatic scrolling                 Otomatik kaydirma(MS)
+automatic single spacing            Otomatik tek aralama(MS)
+Automatic Startup                   Otomatik Baslama(MS)
+automatic style                     Otomatik biçem(MS)
+automatically                       özdevimli(MAC)
+automation                          özdevim(MAC) otomasyon(IBM)
+AutoMerge macro                     KendBirles(makro)(MS)
+AutoNew macro                       KendYeni(makro)(MS)
+Autonumbered Fields                 Otomatik numaralandirilmis alanlar(MS)
+Autonumbered Reference              Otomatik numaralandirilmis referanslar(MS)
+AutoOpen macro                      KendAç(makro)(MS)
+AutoPrint macro                     KendYaz(makro)(MS)
+Autosave                            Otomatik kaydetme(MS)
+autosave backup file                otomatik kaydetme yedek dosyasi(MS)
+Autosave Frequency                  otomatik kaydetme sikligi(MS)
+AutoSave macro                      KendKaydet(makro)(MS)
+Autosave Prompt                     Otomatik kaydetme yanit istemi(MS)
+Autosort                            Otomatik siralama(MS)
+AutoSort macro                      KendSirala(makro)(MS)
+AutoStart macro                     KendBasla(makro)(MS)
+AutoStyle macro                     KendBiçem(makro)(MS)
+auxiliary                           yardimci(IBM)(MAC)
+auxiliary storage                   yardimci bellek(IBM)
+availability notice                 ürün bildirimi(IBM)
+available                           kullanilabilir(IBM)(MAC)
+available allocation units          kullanilabilir yerlesim birimi(IBM)
+available choice                    kullanilabilir seçenek(IBM)
+available memory                    kullanilabilir bellek(IBM)
+average                             ortalama(IBM)(MAC)
+axes                                eksenler(MAC)
+axis                                eksen(IBM)(MAC)
+axis grid lines                     eksen izgara çizgileri(IBM)
+axis range                          eksen yayilma alani(IBM)
+axis title                          eksen basligi(IBM)
+axis translation line               eksen kaydirma çizgisi(IBM)
+daily                               günlük
+damage                         	    zarar
+dance                               dans etmek
+danger                              tehlike
+dangerous                           tehlikeli
+dark                                koyu
+date                                tarih, randevu
+daughter                            kýz çocuk
+day                                 günlük
+dead                                ölü
+deal                                mukavele
+deal with                           uðraþmak
+death                               ölüm
+dept                                derinlik
+decay                               çürümek
+deceive                             aldatmak
+decide                              karar vermek
+decision                            karar
+decorate                            dekore etmek
+decoration                          dekorasyon
+decrease                            azaltmak
+deep                                derin
+defeat                              yenmek, yenilgi
+defence                             savunma
+defend                              savunmak
+definite                            kesin
+definitely                          kesinlikle
+degree                              derece
+delay                               ertelemek, gecikme
+deliberate                          kasti
+deliberately                        kastice
+delicate                            narin
+deliver                             daðýtmak
+demand                              istemek
+department                          bölüm
+depend                              e baðlý olmak
+dependent                           baðýmlý olmak
+depth                               derinlik
+describe                            tanýmlamak
+description                         tanýmlanmýþ
+desert                              çöl
+deserve                             hak etmek
+design                              dizayn
+desirable                           arzu edilen
+desire                              arzu etmek
+desk                                sýra
+destroy                             patlamak
+destruction                         yýkým
+detail                              detay
+determination                       azim
+determined                          azimli
+develop                             geliþmek
+dictionary                          sözlük
+die                                 ölmek
+difference                          farklýlýk
+different                           farklý
+difficult                           zor
+difficultly                         zorca
+dig                                 kazmak
+dinner                              akþam yemeði
+direct                              yönetmek
+direction                           talimat
+dirt                                kir
+dirty                               kirli
+disappoint                          umudunu kirmak
+disappointing                       hayal kirici
+discover                            keþfetmek
+discovery                           keþif
+discuss                             tartismak
+discussion                          tartisma
+disase                              felaket
+dish                                canak
+dismis                              iþten çýkarmak
+distance                            mesafe
+distant                             uzakta
+divide                              bölmek
+do                                  yapmak
+dollar                              dolar
+door                                kapý
+double                              çift
+doubt                               nokta
+down                                aþaðý
+draw                                çizmek
+drawer                              çizici
+dream                               rüya
+dress                               sýra
+drink                               içmek
+drive                               sürmek
+drop                                düþürmek
+drug                                eczane
+drum                                davul
+drunk                               sarhoþ
+dry                                 ýslak
+duck                                ördek
+dull                                sýkýcý, hafif
+during                              boyunca
+dust                                toz
+duty                                nöbetçi
+Mac to MS-DOS                       Mac-MS DOS(MAC)
+Mac to ProDOS                       Mac-ProDOS(MAC)
+Mac. Operating System               Mac. isletim Sistemi(MAC)
+Mac. Owners Guide                   Mac. Kullanici Kitabi(MAC)
+Mac. Printing Tools                 Mac. Baski Gereçleri(MAC)
+Mac. System Tools                   Mac. Sistem Gereçleri(MAC)
+machine                             makine(IBM)
+machine check                       makine arizasi(IBM)
+machine check handler               makine arizasi isleyici program(IBM)
+machine code                        makine dili(IBM)
+machine language                    makine dili(IBM)
+machine readable information        makinece okunabilir bilgi(IBM)
+machine-readable                    makina lisaninda okunabilir(MAC)
+Macintosh                           Macintosh(MAC)
+Macintosh user interface            Macintosh kullanici arayüzü(MAC)
+macro                               makro(IBM)(MAC)(MS)
+Macro button                        Makro dügmesi(MS)
+macro call                          makro çagrisi(IBM)
+Macro Conversions                   Makro Dönüsümleri(MS)
+Macro Converter                     Makro Dönüstürücü(MS)
+Macro edit(ing) icon bar            Makro düzenleme simge çubugu(MS)
+Macro editing window                Makro düzenleme penceresi(MS)
+Macro editor                        Makro düzenleyici(MS)
+Macro instructions                  Makro yönergeleri(MS)
+Macro Sheet                         Makro Tablosu(MAC)
+macrodefinition                     makro tanim(IBM)
+macroinstruction                    makro komut(IBM)
+macrolanguage                       makro dili(IBM)
+MacroMaker                          MakroYapar(MAC)
+macroprocessor                      makroislemci(IBM)
+magazine                            disket takimi kutusu(IBM)
+Magenta                             Mor(MAC) Pembe(MS)
+magnet                              miknatis(IBM)
+magnetic                            manyetik(IBM)
+magnetic hand scanner               manyetik el tarayicisi(IBM)
+magnetic ink character reader       manyetik mürekkepli karakter okuyucu(IBM)
+magnetic ink character recognition  manyetik mürekkepli karakter tanima(IBM)
+magnetic slot reader                yuvali manyetik okuyucu(IBM)
+magnetic stripe                     manyetik serit(IBM)
+magnetic stripe slot reader         yuvali manyetik serit okuyucu(IBM)
+magnetic stripe wand                manyetik serit okuma kalemi(IBM)
+Magnification                       Büyültme(MS)
+magnifier                           Büyülteç(MS)
+magnify                             büyütmek(IBM)
+mail                                posta, postalamak(IBM)
+mail log                            posta günlügü(IBM)
+Mail Merge                          Adres-Mektup Birlestirme(MS)
+Mailing address                     Posta adresi(MS)
+mailing labels                      posta etiketleri(MS)
+main                                ana(IBM)(MAC) Ana / Asil / Ana grup(MS)
+Main Chart                          Ana Grafik(MAC)
+Main Chart Axis                     Ana Grafik Ekseni(MAC)
+Main Chart Type                     Ana Grafik Tür...(MAC)
+main circuit board                  ana islem karti(MAC)
+Main Dictionary                     Ana Sözlük(MS)
+Main Document                       Ana Belge(MS)
+main entry                          ana girdi(MS)
+Main Group                          Ana Grup(MS)
+main logic board                    ana islem karti(MAC)
+main memory                         ana bellek(IBM)
+main storage                        ana bellek(IBM)
+Main unit                           Ana birim(MAC)
+mainframe                           anabilgisayar(IBM)(MS)
+mainline                            ana(IBM)
+maintain                            korumak, bakmak(IBM)
+maintenance                         bakim(IBM)
+maintenance mode                    bakim kipi(IBM)
+major                               büyük, baslica(IBM) ana(MAC)
+major event code                    ana etkinlik kodu(IBM)
+Major Grid Lines                    Ana Kilavuz Çizgiler(MAC)
+Major Unit:                         Ana Birim:(MAC)
+majority                            çogunluk(IBM)
+make a backup(to)                   yedeklemek(MS)
+Make Changes                        Degisiklik Yapma Degisiklik Yetkisi:(MAC)
+malfunction                         ariza(IBM)
+Maltese                             Malta dili(MAC)
+management                          yönetim(IBM)
+management capabilities             yönetim yetileri(MS)
+management information system       yönetim bilisim sistemi(IBM)
+Managing                            Yönetim(MAC)
+Managing documents                  Belge yönetimi(MS)
+mandatory                           zorunlu(IBM)
+manipulate(to)                      degistirmek(MS)
+manipulation                        isleme(IBM)
+mantissa                            mantis(IBM)
+manual                              el ile(IBM)(MS)
+manual feed                         elle besleme(MAC) El ile besleme(MS)
+Manual feed guide                   elle besleme kilavuzu(MAC)
+manual feed tray                    elle besleme kaseti(MAC)
+manual pagebreak                    El ile sayfa sonu(MS)
+map                                 eslem, eslemek(IBM)
+Map(DA)                             Harita(MD)(MAC)
+mapped                              eslenmis(IBM)
+mapped buffer                       eslenmis arabellek(IBM)
+mapping                             esleme(IBM)
+Mapping characters                  Esleme karakterleri(MS)
+marching ants                       kayar noktali çerçeve(MAC)
+margin                              kenar boslugu(IBM)(MS) marj(MAC)
+margin headings                     kenar boslugu basliklari(MS)
+margin marker                       marj isaretleyicisi(MAC) Kenar boslugu imi(MS)
+margin setting                      Kenar boslugu ayari(MS)
+mark                                im, imlemek(IBM) isaret(MAC);imlemek / isaretlemek(MS)
+Mark New Text With                  Yeni Metni ... ile imle(MS)
+Mark Revisions                      Degisiklikleri imle(MS)
+marker                              belirteç(IBM) imler(MS)
+marking character                   imleme karakteri(MS)
+markup language                     biçimleme dili(IBM)
+marquee                             kayar noktali çerçeve(MAC)
+mask                                maske, maskelemek(IBM)
+mass                                yigin(IBM)
+mass storage                        yigin bellek(IBM)
+master                              ana(IBM)(MAC)
+Master copy                         Asil kopya(MS)
+master file                         ana kütük(IBM)
+match                               eslestirmek(IBM)(MS) esleme, es(MAC)
+match case                          BÜYÜK küçük harf duyarli(MS)
+Match Upper/Lowercase               BÜYÜK / küçük harf duyarli(MS)
+math coprocessor                    matematik yardimci islemcisi(IBM);Yardimci Matematik
+Mathematical equation               Matematiksel denklem(MS)
+Mathematical operator               Matematiksel isleç(MS)
+Mathematical Typeface / typesetting Matematiksel yazi karakteri(MS)
+matrix                              matris(IBM) matris, düzey(MAC)
+matrix printer                      matris yazici(IBM)
+maximize                            (pencereyi) ekran boyutuna getirmek(IBM);Ekrani kaplamak(MS)
+maximize button                     ekran boyutuna getirme dügmesi(IBM)
+maximum                             en büyük, en çok(IBM) en büyük(MAC)
+Maximum Change:                     En büyük fark:(MAC)
+Maximum Iterations:                 En Çok itersyon:(MAC)
+mean                                ortalama(IBM)
+Meanings                            Anlamlar(MS)
+measurements                        ölçü birimi(MS)
+mechanism                           düzenek(IBM)
+media                               ortam(IBM)(MAC)
+Media Handler                       Ortam isleyici(MAC)
+medialess                           ortamsiz(IBM)
+medium                              ortam, orta(IBM) orta(MS)
+Megabyte                            Megabyte(MAC)
+megabytes                           megabayt(MS)
+megahertz                           megahertz(MAC)
+member                              üye(IBM)
+membrane                            zar(IBM)
+membrane keyboard                   dokunma duyarli klavye(IBM)
+memo                                Hatirlatici not(MS)
+memory                              bellek(IBM)(MAC)(MS)
+memory cache                        önbelek(MAC)
+memory cache card                   önbellek karti(MAC)
+Memory free:                        Bos bellek:(MS)
+Memory Manager                      Bellek yöneticisi(MS)
+Memory restrictions                 Bellek sinirlamalari(MS)
+Memory Usage                        Bellek kullanimi(MS)
+Memory used                         Kullanilan bellek(MS)
+menu                                menü(IBM)(MAC)(MS)
+Menu Alteration Procedures          Menü Degistirme Yöntemleri(MS)
+menu assignment                     menü atamasi(MS)
+menu bar                            menü çubugu(IBM)(MAC)(MS)
+Menu Blinking                       Menü Yanip SönmeHizi(MAC)
+Menu changes                        Menü degisiklikleri(MS)
+menu driven                         menülerle çalistirilan(IBM)
+menu item                           menü ögesi(MAC)
+menu structure                      menü yapisi(MS)
+Menu Text                           Menü metni(MS)
+Menu title                          Menü basligi(MAC)
+merge                               birlestirmek(IBM)(MAC)(MS)
+merge address                       birlestirme adresi(MS)
+Merge instructions                  birlestirme komutlari(MS)
+Merge record number                 Kayit numarasi birlestirme(MS)
+Merge Records                       Kayitlari Birlestir(MS)
+MergeField                          Birlestirme Alani(MS)
+merging documents                   dokümanlari birlestirme(MS)
+merging records                     kayitlari birlestrime(MS)
+message                             ileti(IBM)(MAC)(MS)
+Message Bar                         ileti Çubugu(MS)
+message box                         ileti kutusu(IBM)(MS)
+message handler                     ileti isleyici(IBM)
+Message line                        ileti satiri(MS)
+message pop-up                      ileti penceresi(IBM)
+message queue                       ileti kuyrugu(IBM)
+Metafile                            Metafile(MS)
+metafile format                     metafile dosya biçimi(MS)
+method                              yöntem(IBM)
+methodology                         yöntembilim, yöntem(IBM)
+MFM                                 Degistirilms Frekans Modülasyonu(MAC)
+Micro Channel Architecture          Mikro Kanal Mimarisi(IBM)
+micro-                              mikro-(IBM)
+microcomputer                       mikrobilgisayar(IBM)
+microprocessor                      mikroislemci(IBM)(MAC)
+Microsoft Corp.                     Microsoft Corp.(MAC)
+Microsoft@ Excel                    Microsoft@ Excel(MAC)
+microwave                           mikrodalga(IBM)
+MIDI                                MIDI(IBM)
+MIDI interface cable                MIDI arabirimi kablosu(IBM)
+migrate                             geçirmek, geçmek(IBM)
+migration                           geçis(IBM)
+milestone                           asama(IBM)
+minicomputer                        minibilgisayar(IBM)
+minimize                            (pencereyi) ikon durumuna getirmek(IBM);Simge durumuna küçültmek
+minimize button                     ikon durumuna getirme dügmesi(IBM)
+minimum                             en küçük, en az(IBM) en küçük(MAC)
+minimum Row Height                  en az satir yüksekligi(MS)
+minor                               küçük, önemsiz(IBM) ikincil(MAC)
+Minor Grid Lines                    ikincil Kilavuz Çizgileri(MAC)
+Minor Unit:                         ikincil Birim:(MAC)
+minus sign                          eksi isareti(MS)
+minutes                             dakika(lar)(MS)
+mirror                              ayna(IBM)
+mirror image                        ikiz görüntü(IBM)
+mirror margins                      yapisik sayfalarin iç kenar bosluklari(MS)
+mirrored pair                       ikizlenmis çift(IBM)
+mirrored unit                       ikizlenmis birim(IBM)
+mirroring                           ikizleme(IBM)
+missing                             eksik, atlanmis(IBM)
+misspelling                         yazim hatasi(MS)
+mistake                             yanilgi, yanilmak(IBM)
+mixed                               karma(IBM) karisik(MS)
+mixed chart                         karma çizim(IBM)
+mnemonic                            animsatici, animsanir(IBM)
+mode                                kip(IBM)(MS) durum(MAC)
+model                               model(IBM)(MAC)(MS)
+modem                               modem(IBM)(MAC)
+modem eliminator                    kukla modem(IBM)
+Modem port                          Modem kapisi(MAC)
+modification                        degisiklik(IBM)
+modification date                   degisiklik tarihi(MAC)
+modification level                  degisiklik düzeyi(IBM)
+modification time                   degisiklik saati(MAC)
+Modified frequency modulation       Degistirilmis frekans modülasyonu(MAC)
+modified text                       degistirilmis metin(MS)
+Modified:                           Degisiklik:, Düzeltme:(MAC)
+modifier                            degistirici(IBM)
+modifier key                        niteleme tusu(MAC)
+modify                              degistirmek(IBM) degisiklik(MAC) degistir(MS)
+modular                             birimsel(IBM)
+modular programming                 birimsel programlama(IBM)
+modulate                            modüle etmek(IBM)
+modulation                          modülasyon(IBM)
+module                              modül(VM'de), birim(IBM)
+modulo                              modülo(IBM)
+modulus                             modülüs(IBM)
+monadic operator                    tek islemci(li)(IBM)
+monitor                             izlemek, görüntü uçbirimi(IBM) monitör(MAC)(MS)
+mono                                tek(IBM)
+monocasing                          büyük harfe dönüstürme(IBM)
+monochrome                          tekrenkli(IBM)
+monolithic integrated circuit       tek yongali tümlesik devre(IBM)
+Monospace Font                      Esaralikli Yazitipi(MS)
+Monospaced character                Esaralikli karakter(MS)
+monospaced list                     esaralikli liste(IBM)
+Month                               Ay(MAC)
+more                                daha(MS)
+Morning format(re: time)            sabah biçimi(saat gösterimi için)(MS)
+most significant digit              en soldaki basamak(IBM)
+motor                               motor(IBM)
+Motorola 68000                      Motorola 68000(MAC)
+mount                               baglanma, tanma(MAC) montaj(IBM)
+mouse                               fare(IBM)(MAC)(MS)
+Mouse Action                        Fare islemi(MS)
+Mouse Basics                        Fare Kullaniminin temelleri(MS)
+mouse button                        fare dügmesi(IBM)(MAC)(MS)
+Mouse keys                          Fare tuslari(MAC)
+Mouse Pointer                       Fare isaretçisi(MS)
+Mouse position                      Farenin konumu(MAC)
+Mouse shortcuts                     Fare kestirmeleri(MS)
+Mouse Tracking                      Fare izleme(MAC)
+Mouse tricks                        Fare numaralari(MS)
+Mouse(serial / bus)                 Fare(seri / tasit)(MS)
+move                                tasimak(IBM)(MAC)(MS)
+Move to Desktop                     Masaya Tasi(MAC)
+move to(re: position or option)     ...ya tasi(MS)
+Mover                               Tasiyici(MAC)
+Movie                               Film(MAC)
+Movie Controller                    Film Denetleyicisi(MAC)
+Movie Grabber                       Film Tutucu(MAC)
+Movie Play                          Film Oynatma(MAC)
+Movie Preview Maker                 Film Ön izeme Yapicisi(MAC)
+MS-DOS                              MS-DOS(MAC)
+MS-DOS executive window             MS-DOS yönetici penceresi(MS)
+MS-DOS Executive(System Menu)       MS-DOS Yönetici(System Menüsü)(MS)
+MS-DOS to Mac                       MS DS-Mac(MAC)
+MS-DOS to ProDOS                    MS DOS-roDOS(MAC)
+multi-                              çok-, çoklu-(IBM)
+Multi-color Graphics Adapter        Çok Renkli Grafik Bagdastirici(IBM)
+Multi-language                      Çok Dilli(MS)
+multi-line edit control             çok satirli düzenleme kontrolü(MS)
+Multicolumn                         Çok sütunlu(MS)
+multicopy merge                     çok kopyali kaynastirma(IBM)
+multidrop line                      çok baglantili hat(IBM)
+MultiFinder                         MultiFinder(MAC)
+multilanguage code page             çok dilli kod sayfasi(IBM)
+multilingual code page              çok dilli kod sayfasi(IBM)
+multimedia                          çoklu ortam(IBM)
+multimedia system                   çoklu ortam sistemi(IBM)
+multinational character set         çok uluslu karakter takimi(IBM)
+multinational system                çok uluslu sistem(IBM)
+multiple                            çoklu(IBM)
+multiple axis chart                 çok eksenli çizim(IBM)
+multiple bar chart                  çok çubuklu çizim(IBM)
+multiple cell row                   çok hücreli satir(MS)
+multiple chart                      çoklu çizim(IBM)
+multiple choice selection list      çok seçenekli liste(IBM)
+Multiple column                     Çok sütunlu(MS)
+Multiple Column Array               Çok sütunlu dizi(MS)
+multiple column text                çok kolonlu metin(IBM)
+Multiple File Support               Çoklu Dosya Destegi(MS)
+multiple files selection            birden fazla dosya seçimi(MS)
+Multiple Instances                  Bir programin ayni anda çalisan diger kopyalari(MS)
+multiple line report                çok satirli rapor(IBM)
+multiple routing                    çoklu yöneltme(IBM)
+multiple selection field            çok seçimli alan(IBM)
+multiple session                    çok oturumlu(IBM)
+Multiple windows                    Çoklu pencereler / birden fazla pencere(MS)
+Multiple-File Document              Çok Dosyali Belge(MS)
+Multiple-level entries              Çok düzeyli girdiler(MS)
+multiplex                           çoklu(MAC)
+multiplex operation                 çoklama islemi(IBM)
+multiplexer                         çoklayici(IBM)
+multiplexer channel                 çoklayici kanal(IBM)
+multiplexing                        çoklama(IBM)
+multiplicand                        çarpilan(IBM)
+Multiplication(re: math function)   Çarpma(MS)
+multiplier                          çarpan(IBM)
+Multiply                            Çarp(MAC)
+multipoint line                     çok baglantili hat(IBM)
+multiprocessing                     çoklu islem(IBM)
+multiprogramming                    çoklu programlama(IBM)
+multirequester terminal program     çoklu istek uç programi(IBM)
+multitasking                        çoklu görev(IBM) Çokgörevli(MAC)
+multithreading                      çoklu kullanim(IBM)
+multiuser                           çok kullanicili(IBM) çokkullanicili(MAC)
+multiuser system                    çokkullanicili sistem(MAC)
+mutual                              karsilikli(IBM)
+mutually exclusive                  birbirini dislayan(IBM)
+each                                her
+eager                               istekli
+ear                                 kulak
+early                               erken
+earn                                ogrenmek
+earth                               dunya
+east                                dogu
+eastern                             doguya ait
+easy                                kolay
+eat                                 yemek
+economic                            ekonomik
+edge                                kenar
+educate                             eðitmek
+educated                            eðitimli
+education                           eðitim
+effect                              etkilemek
+effective                           etkili
+effort                              efor harcamak
+egg                                 yumurta
+eight                               sekiz
+either                              her iki, ya
+elbow                               dirsek
+elect                               seçmek
+elction                             seçili
+electric                            elektrikli
+electricity                         elektrik
+electronic                          elektronik
+else                                baþka
+embarrass                           rahatsýz etmek
+embarrassing                        rahatsýz edici
+emotion                             his, duygu
+emphasize                           vurgulamak
+employ                              iþçi çalýþtýmak
+employer                            iþ veren
+employment                          iþçi
+empty                               boþ
+enclose                             etrafýný çevirmek
+encourage                           cesaretlendirmek
+end                                 son
+enemy                               düþman
+energy                              enerji
+engine                              motor
+engineer                            iþ adamý
+enjoy                               eðlenmek
+enjoyable                           eðlenceli
+enjoyment                           eðlence
+enough                              yeterli
+enter                               giriþ
+entertain                           eðlenceli
+entertainment                       eðlence
+entrance                            enterans
+envelope                            zarf
+environment                         çevre
+equal                               eþit
+equioment                           malzeme
+escape                              kaçmak
+even                                hatta, bile
+evening                             akþam
+event                               olay
+ever                                hiç, herhangi bir zaman
+every                               her
+everyone                            herbiri
+everything                          herþey
+everywhere                          heryer
+evil                                günahkar, kötü
+exact                               kesin
+exactly                             kesinlikle
+examination                         sýnav
+examine                             incelemek
+example                             örnek
+excellent                           mükemmel
+except                              hariç
+exchange                            deðiþim
+excite                              tahrik etmek
+exciting                            ilginç
+excuse                              affetmek, özür
+exercise                            egzersiz
+exist                               var olmak
+existance                           var oluþ
+expect                              ummak
+expensive                           pahalý
+experience                          deneyim, maruz kalmak
+explain                             açýklamak
+explanation                         açýklama
+explode                             patlamak
+explosion                           patlama
+explosive                           patlayýcý
+express                             hýzlý, açýk, kesin, ifade
+expression                          ifade
+extreme                             aþýrý
+exteremly                           aþýrýca
+eye                                 goz
+pace                                ilerleme hizi(IBM)
+pacing                              hiz denetimi(IBM)
+pack                                paketlemek(IBM)
+package                             paket(IBM)(MS)
+packed                              sikistirilmis(MAC)
+packed decimal                      paketlenmis onlu(IBM)
+packed field                        paketlenmis alan(IBM)
+packed file                         paketlenmis kütük(IBM)
+packet                              paket(IBM)
+packet switching                    paket anahtarlama(IBM)
+pad                                 doldurmak(IBM)
+padding                             doldurma(IBM)
+paddle                              imleç denetim kolu(IBM)
+page                                sayfa(IBM)(MAC)(MS)
+Page Back                           Önceki sayfa(MS)
+Page border                         Sayfa kenarligi(MS)
+Page Boundary Margin                Sayfa sinir boslugu(MS)
+page break                          sayfa sonu(MAC)(MS)
+page down                           sonraki sayfa(IBM)
+page fault                          sayfa hatasi(MAC)
+Page Footer:                        Sayfa Altligi:(MAC)
+page format                         sayfa biçimi(MAC)
+Page Forward                        Sonraki Sayfa(MS)
+page frame                          sayfa çerçevesi(IBM)
+Page Header:                        Sayfa Basligi:(MAC)
+page layout                         sayfa düzeni(IBM)(MS)
+Page layout Properties              Sayfa düzeni özellikleri(MS)
+page left                           sayfanin solu(IBM)
+page limit                          sayfa limiti(MAC)
+page number                         sayfa numarasi(MAC)(MS)
+Page Number Cross-Reference         Sayfa Numarasi Çapraz-Referransi(MS)
+Page Numbering                      Sayfa Numaralandirma(MS)
+page offset                         sayfa kaydirma(MAC)
+Page Orientation                    Sayfa Yönü(MAC) Sayfa Yönlendirme(MS)
+page printer                        sayfa yazici(IBM)
+Page Range                          Döküm kapsami(MAC) Sayfa Erimi(MS)
+page rectangle                      sayfa dörtgeni(MAC)
+Page Reference                      Sayfa referansi(MS)
+page right                          sayfanin sagi(IBM)
+page segment                        sayfa parçasi(IBM)
+Page Setup                          Sayfa Düzeni ...(MAC)
+Page Size                           Sayfa boyutu(MAC)(MS)
+page swapping                       sayfalarin yerini degistirme(MAC)
+page up                             önceki sayfa(IBM)
+Page View                           Sayfa izleme(MAC)
+page zero                           sifirinci sayfa(MAC)
+pageable                            sayfalanabilir(IBM)
+Paged Memory Management Unit        Sayfalanmis Bellek Yönetimi Birimi(MAC)
+PAGEDOWN Key                        PAGEDOWN tusu(MS)
+PAGEUP Key                          PAGEUP tusu(MS)
+paginate                            sayfa numaralamak(IBM) sayfalari numaralama(MAC)
+Pagination                          Sayfalandirma(MS)
+paging                              sayfalama(IBM) sayfalar numaralaniyor(MAC)
+paging icon                         sayfalama simgesi(MS)
+paint                               boyamak(IBM)(MAC)
+Paint text                          metin boyama(MAC)
+Paintbrush                          boya firçasi(MAC)
+paired                              esli(IBM)
+paired data                         tek esli veri(IBM)
+palette                             palet(IBM)(MAC)
+Palette of drawing tools            çizim araçlari paleti(MAC)
+palmtop computer                    avuçiçi bilgisayar(IBM)
+Pane                                Yari pencere / Pencere(MS)
+panel                               pano, panel(IBM)
+panel area                          pano alani(IBM)
+panel area separator                pano alani ayiricisi(IBM)
+panel element                       pano ögesi(IBM)
+panel group                         pano grubu(IBM)
+panning                             gezdirme(IBM)
+Paper                               Kagit(MAC)
+paper break                         kagit ayirma yeri(IBM)
+paper cassette                      kagit kaseti(MAC)(MS)
+Paper clamp                         Kagit kiskaci(MAC)
+paper clip                          yer imi(IBM)
+Paper Feed                          Kagit Besleme(MS) Sayfanin Takilisi(MAC)
+paper guide                         kagit kilavuzu(MAC)
+paper jam                           kagit sikistirma(MAC)
+paper length                        kagidin uzunlugu(MAC)
+paper load                          kagit yükleme(MAC)
+Paper output tray                   Kagit çiktikaseti(MAC) Kagit çikti tepsisi(MS)
+paper registration                  kagit ayarlama(IBM)
+paper release                       kagidi birakma(IBM)
+paper size                          kagit boyutu(MAC)
+Paper tray                          Kagit kaseti(MAC)
+paragraph                           paragraf(IBM)(MAC)(MS)
+Paragraph Break                     Paragraf sonu(MS)
+Paragraph Formatting                Paragraf Biçimlendirme(MS)
+Paragraph indentation               Paragraf basi(MAC)
+Paragraph Library                   Paragraf Kitapligi(MS)
+Paragraph Mark                      Paragraf imi(MS)
+Paragraph Spacing                   Paragraf Aralama(MS)
+Paragraph spacing icon              Paragraf Aralama simgesi(MS)
+Paragraph text                      Paragraf metni(MAC)
+parallel                            kosut(IBM)
+parallel ¥ serial printer           paralel / seri yazici(MS)
+Parallel Columns                    Paralel Sütunlar(MS)
+parallel communication              paralel iletsim(MAC)
+parallel computer                   kosut bilgisayar(IBM)
+parallel device                     kosut aygit(IBM)
+parallel operation                  kosut isletim(IBM)
+parallel port                       kosut baglanti noktasi(IBM)
+parallel processing                 kosut islem(IBM)
+parallel run                        kosut geçis(IBM)
+parallel transmission               kosut iletim(IBM)
+parameter                           parametre(IBM)(MS) Parametre, degistirge(MAC)
+Parameter Passing                   Parametre geçisi(MS)
+parameter passing to macro          makroya parametre iletimi(MS)
+Parent directory                    Ana Dizin(MS)
+parent element                      üstöge(IBM)
+Parent style                        Ana biçem(MS)
+Parent window                       Ana pencere(MS)
+parenthesis                         ayraç(IBM)(MS)
+parity                              eslik(MAC)
+parity bit                          eslik biti(IBM)
+parity check                        eslik saglamasi(IBM)
+parity checking                     eslik kontrolü(MAC)
+parser                              ayristirici(IBM)
+Part                                Parça(MAC)
+part(ial)                           parça(li), kismi(IBM)
+Partial index                       kismi dizin(MS)
+partition                           bellek bölümü, disk bölümü(IBM);Paylastirma / Pay(MS)
+partition table                     bellek bölüm çizelgesi(IBM)
+partner                             ortak(IBM)
+pass                                geçis, geçmek(IBM)
+pass-through                        düzgeçis(IBM)
+pass-through facility               düzgeçis olanagi(IBM)
+passive                             edilgen(IBM)
+password                            parola(IBM)(MAC)(MS)
+paste                               yapistirmak(IBM)(MAC)(MS)
+Paste Function                      islev yapistir...(MAC)
+Paste in back                       arkaya yapistir(MAC)
+Paste in front                      öne yapistir(MAC)
+Paste Name                          Ad Yapistir...(MAC)
+Paste Special                       Yapistir(Özel)...(MAC)
+patch                               yama, yamamak(IBM)
+patch code                          eklenmis kod(MAC)
+path                                yol(IBM)(MAC)(MS)
+path name                           yol adi(MAC)(MS)
+path string                         yol dizesi(MS)
+pattern                             desen, kalip(IBM) desen(MAC) örüntü / desen(MS)
+pattern recognition                 örüntü tanima(MAC)
+pause                               duraklama(IBM)(MAC)(MS)
+PC Drive Card                       PC Sürücü Kati(MAC)
+PC session                          kisisel bilgisayar oturumu(IBM)
+PC support                          PC Destegi(IBM)
+peak                                doruk(IBM)
+peer                                esdüzey(IBM)
+peer to peer                        esdüzeyde(IBM)
+pel                                 görüntü ögesi(IBM)
+Pen menu                            Kalem menüsü(MAC)
+Pencil                              Kursun kalem(MAC)
+pending                             askida(IBM)
+penetration                         yayginlik(IBM)
+percent                             yüzde(MS)
+Percent complete:                   Tamamlanma Yüzdesi:(MAC)
+perforated                          delikli(IBM)
+perforation                         zimba çizgisi(IBM)
+perforator                          delici(IBM)
+perform                             gerçeklestirmek(IBM)
+perform an action                   islem gerçeklestirme(MS)
+performance                         basarim(IBM)(MAC)
+performance tuning                  basarim eniyileme(IBM)
+period                              dönem(IBM) nokta(MAC)
+peripheral                          çevresel(IBM)
+Peripheral Accessories              Çevre Birim Donatilari(MS)
+Peripheral device                   Çevrebirim aygiti(MAC)
+permanent                           kalici(IBM)(MS)
+permit                              izin(IBM)
+permutation                         permütasyon(IBM)
+Persian                             Farsça(MAC)
+personal computer                   kisisel bilgisayar(IBM)
+Personal preferences                Kisisel tercihler(MS)
+PgDn key                            PgDn tusu(MS)
+PgUp key                            PgUp tusu(MS)
+phase                               evre, faz, yürütülür program(IBM)
+photoconductor                      fotoiletken(IBM)
+phrase                              tümcecik(IBM)
+physical                            fiziksel(IBM)
+physical child                      fiziksel altöge(IBM)
+physical file                       fiziksel kütük(IBM)
+physical layer(OSI)                 fiziksel katman(IBM)
+physical link                       fiziksel baglanti(IBM)
+physical parent                     fiziksel üstöge(IBM)
+pica                                pika(IBM)
+pictoral symbol(re: field switches) (alan) gösterim simgesi(MS)
+picture                             resim(MAC)(MS)
+picture border                      resim kenarligi(MS)
+Picture Editor Embedder(WinDraw)    Picture Editor Embedder(WinDraw)(MS)
+picture element                     görüntü ögesi(IBM)
+picture file name                   resim dosyasi adi(MS)
+Picture Frame                       Resim Çerçevesi(MS)
+Picture Objects                     Resim Nesneleri(MS)
+Picture Placeholder                 Resim Yer tutuculari(MS)
+picture space                       çizim alani(IBM)
+Pictures                            Resimler(MS)
+pictures in frames                  çerçeveli  resimler(MS)
+Pie                                 Çember...(MAC)
+pie chart                           dairesel çizim(IBM) Çember Grafik(MAC)
+pilot run                           öncü geçis(IBM)
+pin                                 bacak, disli, igne(IBM) igne(MS)
+pinfeed                             dislili besleme(IBM)
+pink                                pembe(MAC)
+pipeline                            ardisik düzen(IBM)
+pipeline options                    ardisik düzen seçenekleri(IBM)
+pipeline processor                  ardisik düzende mikroislemci(IBM)
+piping(dos)                         yöneltme(IBM)
+piracy                              korsanlik(IBM)
+pitch                               karakter sikligi(IBM)(MAC) aralik(MS)
+pixel                               görüntü ögesi(IBM) piksel(MAC)(MS)
+place holder                        yer tutucu(IBM)(MS)
+Plain                               Normal(MAC)
+Plain text                          Normal metin(MAC) Düz metin(MS)
+Plain text file                     Düz metin dosyasi(MS)
+plain type                          normal(MAC)
+Plain-text documents                Saltmetin belgeler(MAC)
+plaintext                           sifresiz metin(IBM)
+plan-of-record                      özet proje plani(IBM)
+plate                               plaka(IBM)
+platen                              merdane(IBM)
+platform                            altyapi(IBM)
+play a script                       betigin çalistirilmasi(MAC)
+playback                            yeniden(yürütmek)(IBM)
+Please name this disk:              Bu diske bir ad veri:(MAC)
+Please name this volume:            Bu oyluma bir ad vein:(MAC)
+plot                                çizmek(IBM)
+plotter                             çizici(IBM)(MAC)(MS)
+plotting vector                     çizm vektörü(MAC)
+plug                                fis(IBM)
+plug and go                         tak ve kullan(IBM)
+plug and go application             'tak ve kullan' uygulamasi(IBM)
+plug-compatible                     tümüyle uyumlu(IBM)
+plug-in                             prize takmak(IBM)
+plus sign                           arti isareti(+)(MS)
+PMMU                                PMMU(MAC)
+pocket                              cep(IBM)
+Pocket guide(booklet)               Cep kilavuzu(MS)
+point                               nokta, punto(MAC)  nokta, göstermek(IBM);isaret et / göster(MS)
+Point Number:                       Nokta numrasi(MAC)
+point of call                       çagirma noktasi(MAC)
+point size                          punto boyu(IBM) yazitipi boyu(MS)
+point to point line                 noktadan noktaya hat(IBM)
+Point(measure)                      Pt(Yazitipi boyutu birimi)(MS)
+point-of-sale device                satis noktasi aygiti(IBM)
+point-of-sale system                satis noktasi sistemi(IBM)
+pointer                             gösterge(IBM) imleç(MAC)(MS)
+Pointer Shape                       imleç Pekli(MS)
+Pointing                            Seçme(MAC)
+Points of backward space            arkadaki noktalar(MS)
+Points of forward space             öndeki noktalar(MS)
+Points of vertical(horizontal)      spacing Düsey(yatay) aralama noktalari(MS)
+polar                               kutuplu(IBM)
+polarize                            kutuplamak(IBM)
+Polish                              Lehçe(MAC)
+polishing a document                belgeyi cilalamak(MS)
+poll                                taramak(IBM)
+pool                                havuz(IBM)
+pop                                 hoplamak(IBM) çikma(MAC)
+Pop Up Menu                         Açilir Menü(MAC)
+pop-up window                       beliren pencere(IBM)
+port                                baglanti noktasi(IBM)(MS) kapi(MAC)
+portability                         tasinabilirlik(IBM)
+portable computer                   tasinabilir bilgisayar(IBM)
+Portable Operating System Interf    ace for Computer Environments POSIX(IBM)
+portrait                            dikey(IBM) düsey(MS)
+Portrait display                    Tam sayfa ekran(MAC)
+Portuguese                          Portekizce(MAC)
+pos register                        satis noktasi yazar kasasi(IBM)
+pos terminal                        satis noktasi uçbirimi(IBM)
+position                            konum(IBM)(MAC)(MS)
+position-independent                konumdan bagimsiz(MAC)
+Positioning                         Konumlandirma(MS)
+positive                            olumlu, arti(IBM)
+positive picture(re: numbers)       sifirdan büyük rakam gösterimi(MS)
+post(power ON SELF TEST)            otomatik sinama(IBM)
+postmortem                          islem sonrasi(inceleme)(IBM)
+Postpone(to)                        ertelemek(MS)
+PostScript Printer on...            ...ya bagli PostScript yazici(MS)
+power                               güç(IBM)(MAC)
+power cord                          güç kablosu(IBM)
+power light                         açik/kapali isigi(IBM)
+Power Manager Processor             Güç Yönetimi islemcisi(MAC)
+power off                           kapamak(IBM)
+power on                            açmak(IBM)
+Power On key                        Açma anahtari(MAC)
+power socket                        priz(IBM)
+power strip                         anahtarli uzatma kablosu(IBM)
+Power supply                        Güç kaynagi(MAC)
+power switch                        güç anahtari(MAC)
+power typing                        serbest yazma(IBM)
+power-on indicator                  açildi göstergesi(IBM)
+Powers(re: math function)           Üssü(re: matematiksel islev)(MS)
+pragmatics                          kullanimbilim(IBM)
+pre-                                ön-(IBM)
+precedence                          öncelik(IBM)
+precision                           duyarlik(IBM)(MAC)
+precompile                          ön derleme(IBM)
+predefine                           (önceden) tanimlamak(IBM)
+Predefined                          önceden tanimlanmis(MS)
+predicate(SQL)                      karsilastirma belirtimi(IBM)
+Preferences                         Tercihler(MS)
+Preferred                           Tercihli(MAC)
+prefix                              önek(IBM)(MAC)(MS)
+preliminary checklist               ön denetim listesi(IBM)
+preparation                         hazirlik(IBM)
+prepared SQL statement              hazirlanmis SQL deyimi(IBM)
+Preparing for copy                  Kopya hazirligi(MAC)
+preprocessor                        önislemci(IBM)
+preprogrammed                       önceden programlanmis(MS)
+prerecorded                         önceden kaydedilmis(MS)
+prerequisite                        önkosul(IBM)
+preselected choice                  vurgulu seçenek(IBM)
+presentation                        sunu, gösterilis(IBM)
+presentation layer(OSI)             sunu katmani(IBM)
+presentation manager                Sunu Yönetim Programi(IBM) Sunu Yöneticisi(MS)
+presentation medium(SNA)            sunu ortami(IBM)
+presentation services layer(SNA)    sunu hizmeti katmani(IBM)
+preset                              ilk deger atamak(IBM) önceden belirlenmis(MS)
+preset parameter                    önceden belirlenmis parametre(IBM)
+press                               basmak(IBM)(MAC)(MS)
+Press a key                         Bir tusa basin(MAC)
+Prev Column                         Önceki Sütun(MS)
+preventive                          koruyucu(IBM)
+preventive maintenance              koruyucu bakim(IBM)
+Preview                             Önizleme(MAC)(MS)
+Preview / Print Preview             baski önizleme(MS)
+Preview font                        önizleme yazitipi(MS)
+preview window                      önizleme penceresi(MS)
+Previous                            Önceki(MAC)(MS)
+PREVIOUS FIELD(Keyname)             ÖNCEKi ALAN(MS)
+price                               fiyat(IBM)
+primary                             birincil(IBM)
+primary axis                        birincil eksen(IBM)
+primary code page                   temel kod sayfasi(IBM)
+primary dos partition               birincil DOS bellek bölümü(IBM)
+primary file                        birincil kütük(IBM)
+primary partition                   birincil bellek bölümü(IBM)
+primary window                      ana pencere(IBM)
+prime number                        asal sayi(IBM)
+print                               yazmak, basmak, yazdirmak, bastirmak(IBM);Kagida Dök(MAC)
+print belt                          yazma kusagi(IBM)
+print buffer                        baski tamponu(MAC)
+Print catalog                       Rehberi Dök(MAC)
+Print Date                          Yazdirilis Tarihi(MS)
+Print Directory                     Rehberi Dök...(MAC)
+Print draft                         Taslagi dök(MAC) Taslak Baski(MS)
+print file                          yazdirma kütügü(IBM)
+Print file                          Dosyayi Kagida Dök(MAC)
+Print final                         son durumu bas(MAC)
+Print Gridlines                     Kilavuz Çizgileri Ba(MAC)
+print head                          yazdirma kafasi(IBM) yazici kafasi(MAC)
+print job                           baski isi(MAC)
+Print Length:                       Baski Alani Uzulugu:(MAC)
+print line                          baski çizgisi, satiri(MAC)
+Print Manager                       Yazdirma Yöneticisi(MS)
+Print Merge                         Birlesik Yazdirma(MS)
+Print Merge Update                  Birlesik Yazdirma Güncellestir(MS)
+Print Options                       Yazdirma Seçenekleri(MS)
+print preview                       (yazdirmadan önce) gözden geçirmek(IBM);Baski Önizleme(MS)
+print queue                         yazici kuyrugu(IBM);Yazdirilacaklar kuyrugu / sirasi(MS)
+print rate                          baski orani(MAC)
+Print Row & Column Headings         Satir ve Sütun Basliklarini Bas(MAC)
+Print Screen key                    Print Screen tusu(MS)
+print server                        baski dagiticisi(MAC)
+print specifications                baski özellikleri(MAC)
+print spooler                       baski bekleticisi(MAC)
+Print Time                          Yazdirilis Saati(MS)
+Print User Log                      Kullanici Günlügünü Bas(MAC)
+print wheel                         yazdirma çarki(IBM)
+Print Width:                        Baski Alani Genisligi:(MAC)
+PrintEnvelopes macro                ZarfYazdir(makro)(MS)
+printer                             yazici(IBM)(MAC)(MS)
+Printer code                        Yazici kodu(MS)
+Printer control codes               Yazici kontrol kodlari(MS)
+printer driver                      yazici sürücüsü(MAC)(MS)
+printer file                        yazici kütügü(IBM)
+printer font                        yazici fontu(MAC) Yazici yazitipi(MS)
+Printer Guide                       Yazici  kilavuzu(MS)
+Printer Installer                   Yazici yerlestirici / kurucu(MS)
+Printer Message:                    Yazici ileisi:(MAC)
+Printer port                        Yazici kapisi(MAC) Yazici baglanti noktasi(MS)
+printer resource                    yazici kaynagi(MAC)
+Printer Settings                    Yazici ayarlari(MS)
+printer setup                       yazici ayari(MAC) Yazici Ayarlari / Ayarlama(MS)
+printer software                    yazici yazilimi(MAC)
+Printer Timeouts                    Yazici zaman limitleri(MS)
+printer writer                      yazdirma programi(IBM)
+Printing instructions               Yazdirma komutlari(MS)
+printing options                    yazdirma seçenekleri(MS)
+Printing Tools                      Baski Gereçleri(MAC)
+printout                            yazili çikti(IBM) Baski(MAC)
+priority                            öncelik(IBM)
+privacy                             kisisel gizlilik(IBM)
+privacy lock                        erisim kilidi(IBM)
+private                             özel(IBM)
+private authority                   özel yetki(IBM)
+private line                        özel hat(IBM)
+privilege                           ayricalik(IBM)(MAC)
+problem                             sorun(IBM)
+problem-oriented language           is yönelimli dil(IBM)
+procedural language                 yordamsal dil(IBM)
+procedure                           yordam(IBM) yordam / yöntem(MS)
+procedure-oriented language         yordamsal dil(IBM)
+process                             süreç, islemek(IBM)(MS) islem(MAC)
+process control                     süreç denetimi(IBM)
+process control system              süreç denetim sistemi(IBM)
+processing                          isleme, islem(IBM)
+processor                           islemci(IBM)
+processor unit                      islem birimi(IBM)
+ProDOS                              ProDOS(MAC)
+ProDOS to Mac                       ProDS-Mac(MAC)
+ProDOS to MS-DOS                    ProDOS-S DOS(MAC)
+production                          üretim(IBM)
+productive                          üretken(IBM)
+productivity                        üretkenlik(IBM)
+profile                             tanitim(IBM) belgi(MAC)
+program                             program, program yapmak, programlamak(IBM)
+program data                        program verisi(MAC)
+program directory                   program dizini(MS)
+program generator                   program üretici(IBM)
+Program linking                     Program baglama(MAC)
+Program Manager                     Program Yöneticisi(MS)
+program product                     lisansli program(IBM)
+program temporary fix(PTF)          geçici program düzeltmesi(IBM)
+program-described data              programda tanimlanan veri(IBM)
+program-described file              programda tanimlanan kütük(IBM)
+programmable read-only memory(PROM) programlanir yalnizca okunur bellek(PROM)(IBM)
+programmable terminal               programlanir uçbirim(IBM)
+programmable workstation            programlanir is istasyonu(IBM)
+progressive                         ileri(IBM)
+project                             tasari, proje(IBM)
+project control                     proje denetimi(IBM)
+project management                  proje yönetimi(IBM)
+project planning                    proje planlamasi(IBM)
+projection                          izdüsüm(IBM)
+prologue                            öndeyis(IBM)
+promote(to)                         yükseltmek(MS)
+promoting a heading level           baslik düzeyini yükseltme(MS)
+prompt                              bilgi istemi, istemde bulunmak(IBM);Bilgi/Komut istemek(MS)
+Prompt for Summary Info             Özet Bilgi iste(MS)
+prompt list pop-up                  bilgi istemi penceresi(IBM)
+prompt text                         komut / bilgi isteme ileti metni(MS)
+Prompt(DOS)                         DOS bilgi / komut istemi(MS)
+prompted stop code                  bilgi istemli dur kodu(IBM)
+Proofing a document                 Belge saglama(MS)
+Proofing pass                       Saglama geçisi(MS)
+Proofing Tools                      Saglama Araçlari(MS)
+proofread                           düzeltmek(IBM)
+propagation                         yayilma(IBM)
+properties                          özellikler(MS)
+proportional                        orantili(IBM)
+Proportional character spacing      Orantili karakter boslugu(MAC)
+proportional font                   orantili font(MAC)
+proportional Space Font             orantili aralikli yazitipi(MS)
+proportional spacing                orantili aralik(IBM) orantili bosluk(MAC)
+Proportionally Spaced Font          orantili aralikli yazitipi(MS)
+protect                             korumak(IBM)(MAC)(MS)
+protected                           korunmus(IBM)
+protected text                      korunmus metin(IBM)
+protocol                            protokol(IBM)(MAC)
+prototype                           prototip(IBM)
+pseudo-                             sözde-(IBM)
+PTF                                 PTF(IBM)
+public                              kamu, genel(IBM)
+publication                         yayin(IBM)
+publish                             yayimlamak(IBM)(MAC)
+Publisher                           Yayimci(MAC)
+publishing                          yayimcilik(IBM)
+Pull down menu                      çekmenü(IBM) Asagiya açilan menü(MAC);Çekmeli Menü(MS)
+pull-down(menu)                     çekmenü(IBM)
+pulse                               vurus(IBM) darbe(MAC)
+punch                               delgi(IBM)
+punctuation                         noktalama(IBM)
+punctuation mark                    noktalama imi(MS)
+purge                               temizlemek(IBM)
+purpose                             amaç(IBM)
+push                                itmek(IBM)
+pushbutton                          islem dügmesi(IBM)
+pushbutton dialing                  tuslu arama(IBM)
+put                                 koymak(IBM)
+Put Away                            Yerine Koy(MAC)
+Put back                            yerine koy(MAC)
+Puzzle                              Çözmece(MAC)
+ice                                 buz
+idea                                düþünce
+if                                  eðer
+ignore                              önem vermemek
+ill                                 hastalýk
+illegal                             yasa dýþý, kanunsuz
+illness                             hastalýk
+image                               imaj, görüntü
+imaginary                           hayali
+imagination                         hayal
+imagine                             hayal etmek
+immediately                         hemen
+importence                          ithalatçý
+important                           önemli
+impressive                          etkileyici
+improve                             geliþmek
+improvement                         geliþme
+in                                  içinde
+include                             içine almak
+including                           dahil
+income                              gelir
+increase                            yükselmek
+independent                         özgürlük
+indoor                              binanýn içinde
+industrial                          endüstriyel
+industry                            endüstri
+infect                              bulaþtýrmak
+infection                           bulaþma
+infectious                          bulaþýcý
+influence                           etkilemek
+inform                              bilgi vermek
+information                         bilgi
+injure                              incitmek
+injury                              incinmiþ
+ink                                 mürekkep
+inner                               dahil, iç
+insect                              böcek
+inside                              içine
+instead                             nýn yerine
+institution                         kurum
+instruction                         talimat
+instrument                          enstrüman
+insult                              hakaret etmek
+insurance                           sigorta
+insure                              sigorta ettirmek
+intelligence                        akýl, zeka
+intelligent                         akýllý
+intend                              niyet etmek
+intention                           niyet, maksat
+interest                            ilgilendirmek
+interesting                         ilginç
+international                       uluslar arasý
+interrupt                           sözünü kesmek
+into                                içine
+introduce                           tanýþtýrmak
+introduction                        baþlangýç
+invent                              icat etmek
+invitation                          icat
+invite                              davet etmek
+involve                             gerektirmek
+inwards                             kýzgýn, öfkeli
+iron                                metal
+island                              ada
+it                                  o (cansýz)
+its                                 onun
+object                              nesne, amaç(IBM) nesne(MAC)(MS)
+object authority                    nesne yetkisi(IBM)
+object code                         amaç program(IBM)
+object content architecture         nesne içerik mimarisi(IBM)
+Object format files                 Nesne biçim dosyalari(MS)
+object language                     amaç dil(IBM)
+object library                      nesne kitapligi(IBM)
+object orientation                  nesneye yönelim(IBM)
+object owner                        nesne sahibi(IBM)
+object program                      amaç program(IBM)
+object properties                   nesne özellikleri(MS)
+Object Window Management            Nesne Penceresi Yönetimi(MS)
+object-action oriented              nesne-islem yönelimli(IBM)
+object-oriented language            nesne yönelimli dil(IBM)
+object-oriented programming         nesne yönelimli programlama(IBM)
+OCR                                 OCR(IBM)
+odd                                 tek(MAC)
+Odd                                 Tek sayi(MS)
+off                                 kapali(IBM) yok(MAC)
+off-hook                            açik(IBM)
+off-line                            çevrim disi(MAC)
+off-line volume                     çevrim disi oylum(MAC)
+off-screen                          ekran disinda(MAC)
+offer                               sunmak(IBM)
+offering                            olanak(IBM)
+office                              ofis(IBM)
+office automation                   ofis otomasyonu(IBM)
+offline                             çevrimdisi(IBM)
+offline storage media               çevrimdisi saklama ortami(IBM)
+offset                              göreli konum, ofset(baski)(IBM);kaydirma(MAC) göreli
+offset pie slice                    ayrilmis dilim(IBM)
+offset stacking                     ayirarak yigma(IBM)
+OK                                  Tamam(MAC)(MS)
+OLE(Object Linking & Embedding)     NBK(Nesne Baglama ve Katma)(MS)
+omit                                atlamak(IBM)
+on                                  açik(IBM)
+On the desktop                      masaüstünde(MAC)
+on the disk                         diskte(MAC)
+on-hook                             kapali(IBM)
+On-line                             Çevrim içi(MAC) çevirimiçi(MS)
+On-line assistance / help           Çevirimiçi destek/yardim(MS)
+On-Line Documentation               Çevirimiçi Dokümantasyon(MS)
+on-line help                        çevrim içi yardim(MAC)
+on-line volume                      çevrim içi oylum(MAC)
+On-screen help                      Ekranda yardim(MS)
+ONE-AND-A-HALF SPACE(Keyname)       BiRBUÇUK ARALIK(MS)
+One-Sided                           Tek Yüzlü(MAC)
+one-way                             tekyollu(IBM)
+online                              çevrimiçi(IBM)
+online education                    sistem destekli egitim(IBM)
+online help                         çevrimiçi yardim(IBM)
+online information                  çevrimiçi bilgi(IBM)
+open                                açik, açmak(IBM)(MAC)(MS)
+Open another volume                 Baska oylum aç(MAC)
+Open Apple key                      Açik elma tusu(MAC)
+Open Architecture                   Açik Mimari(MAC)
+Open as Read Only                   Salt -okunur olarak aç(MS)
+open driver                         Sürücüyü Aç(MAC)
+open file                           dosyayi aç(MAC)
+Open Folder                         Klasörü Aç(MAC)
+Open footer                         Altligi aç(MAC)
+Open header                         Basligi aç(MAC)
+OPEN SPACE(Keyname)                 ARALA(MS)
+open system                         açik sistem(IBM)
+open systems architecture           açik sistemler mimarisi(IBM)
+Open Systems Interconnection        Açik Sistemler Baglantisi(IBM)
+Open Volume                         Oylumu Aç(MAC)
+open-ended                          açik uçlu(IBM)
+Open/Change Links                   Baglantiari Aç/Degistir(MAC)
+Opening a database                  Veritabani açma(MS)
+opening character                   açma karakteri(MS)
+Opening parenthesis                 Sol ayraç(MS)
+operand                             islenen(IBM)(MAC)
+operate                             isletmek(IBM)
+operating                           isletim(IBM)
+Operating Limitations               isletim sinirlari(MS)
+Operating system                    isletim sistemi(MAC)(MS)
+Operating System 2                  OS/2 isletim Sistemi(MS)
+operation                           isletim(IBM)(MS)
+operational database                isletimsel veritabani(IBM)
+operator                            isletmen, isleç(IBM) isleç(MAC) isletmen(MS)
+opposite                            karsit(IBM)
+optical                             optik(IBM)
+optical character reader            optik karakter okuyucu(IBM)
+optical character recognition       optik karakter tanima(IBM)
+optical disk                        optik disk(IBM)
+optical disk platter                optik disk tablasi(IBM)
+optical drive                       optik sürücü(IBM)
+optical fiber                       optik elyaf(IBM)
+optical platter                     optik plak(IBM)
+optical reader                      optik okuyucu(IBM)
+optical scanner                     optik tarayici(IBM)
+optimization                        eniyileme(IBM)
+optimum                             en uygun(IBM)
+option                              aksam, seçenek(IBM) seçenek(MAC);özellik, seçenek(MS)
+Option Button                       Seçenek Dügmesi(MS)
+Option key                          Option tusu(MAC)
+optional                            istege bagli, seçmeli(IBM) istege bagli(MS)
+Optional Hyphen                     istege bagli Tireleme(MS)
+Or                                  Veya(MS)
+order                               sira, düzen, komut, düzenlemek(IBM)
+ordered list                        sirali liste(IBM)
+Ordinal(re: format switches)        Sira sayi gösterimi (1., 2.,...)(MS)
+organization                        kurulus(IBM)
+organize                            düzenlemek(IBM)
+orientation                         yönlendirme(IBM) Yönlendirme / Yönelim(MS)
+origin                              köken, baslangiç(IBM)
+original                            özgün, orijinal(IBM) özgün(MAC)(MS)
+original file                       özgün dosya(MS)
+Original setting                    Özgün ayar(MAC)
+Original Size                       Özgün boyut(MS)
+originator                          çikaran(IBM)
+Orphan control                      sayfanin sonunda tek bir satir kalmasinin;
+Orphan Line                         sayfanin sonunda tek basina kalan satir(MS)
+orphan line                         artik satir(IBM)
+OS/2 command prompt                 OS/2 komut istemi(MS)
+OS/2 Full Screen icon               OS/2 Tam Ekran simgesi(MS)
+OS/2 Presentation Manager           OS/2 Sunu Yöneticisi(MS)
+OS/2 prompt                         OS/2 komut istemi(IBM)
+oscillate                           salinmak(IBM)
+Other translations                  Diger çevirmenler(MAC)
+out-basket                          giden sepeti(IBM)
+out-of-memory message               'yetersiz bellek' iletisi(IBM)
+outboard                            çevre(IBM)
+outbound                            giden(IBM)
+outdoor                             bina disi(IBM)
+outgoing                            giden(IBM)
+outlet                              çikis noktasi(IBM)
+outline                             özet(IBM) Kontur(MAC) Ana hatlar(MS)
+Outline form                        Basliklandira biçimi(MAC)
+Outline Level                       Ana hat düzeyi(MS)
+Outline mode                        Ana Hatlar Kipi(MS)
+Outline views of folders            Klasörleri düzeylendirilmis görüntüsü(MAC)
+Outlined                            basliklandirilmis(MAC)
+outlook                             görünüm(IBM)
+output                              çikti, çikis(IBM) çikti(MAC)
+output device                       çikis aygiti(IBM)(MAC)
+output file                         çikis dosyasi(MAC)
+Output Mode                         Çikti Modu(MS)
+output queue                        çikti kuyrugu(IBM)
+output tray                         çikis kaseti(MAC)
+output work queue                   çikti denetim kuyrugu(IBM)
+Outside                             Dista(MAC) disari(MS)
+Outside Margin                      Dis Kenar Boslugu(MS)
+overflow                            tasma(IBM)
+overflow handling                   tasma denetimi(IBM)
+overflow indicator                  tasma göstergesi(IBM)
+overhead                            ek yük(IBM)
+overhead operation                  (program) önislemler(i)(IBM)
+overlap                             çakismak(IBM)(MAC) çakismak / örtüsmek(MS)
+Overlapped                          Çakisik(MAC)
+overlay                             yerpaylasmak(IBM)
+Overlay Chart                       Yardimci Grafik...(MAC)
+Overlay Chart Axis                  Yardimci Grafik Ekseni(MAC)
+Overlay Chart Type                  Yardimci Grafik Türü...(MAC)
+overlay keyboard                    panelli klavye(IBM)
+overlay program                     yerpaylasan program(IBM)
+overlook                            gözden kaçirmak(IBM)
+overpaint                           üstüne boyama(IBM)
+override                            geçersiz kilmak(IBM)(MAC)(MS)
+overrun                             asma(IBM)
+overstrike                          üstüne basmak(IBM)(MS)
+overstrike character                üste basilan karakter(IBM)
+Overtype mode                       Üstüne yazma modu(MS)
+Overtype(to)                        Üstüne yazmak(MS)
+overview                            gözden geçirmek(IBM) Kusbakisi(MS)
+overwrite                           üstüne yazmak(IBM)(MS)
+owner                               sahip(IBM) Sahibi(MAC)
+Owners Guide                        Kullnici Kitabi(MAC)
+baby                                bebek
+back                                geri
+background                          geri taraf
+backward                            geri kalmýþ
+bad                                 kötü
+bag                                 yatak
+bake                                fýrýnda piþirmek
+balance                             ayar
+ball                                top
+band                                bando
+bank                                banka
+bar                                 bar
+base                                üs,taban,kurmak,dayanmak
+basic                               kolay
+basket                              çöp kutusu
+bath                                banyo
+battle                              savaþ
+be                                  olmak
+beach                               sahil, pilaj
+beak                                gaga
+beam                                yaymak, gülümsemek,ýþýn
+bean                                fasulye
+bear                                ayý
+beat                                vurmak,karýþtýrmak,tempo
+beautiful                           güzel
+beauty                              güzellik
+because                             çünkü
+become                              dönüþmek
+bed                                 yatak
+beer                                bira
+before                              önce
+begin                               baþalamak
+begining                            baþlangýç
+behave                              davranmak
+behaviour                           davranýþ
+behind                              arkasýnda, gerisinde
+belief                              inanç
+believe                             inanmak
+bell                                zil
+belong                              ait olmak
+below                               aþaðýda, altýnda
+belt                                kemer
+bend                                eðmek, bükmek
+beneath                             altýnda
+beside                              yanýna 
+best                                en iyisi
+better                              daha iyi
+between                             arasýnda
+beyond                              ötede, ileride, - den sonra
+bicycle                             bisiklet
+big                                 büyük
+bill                                hesap, kanun tasarýsý
+bird                                kuþ
+birth                               doðmak
+bit                                 biraz, bir parça
+bite                                ýsýrmak
+bitter                              acý, üzücü
+black                               siyah
+blade                               býçak
+blame                               sorumluluk, suçlu tutmak
+blind                               kör
+block                               blok
+blood                               kan
+blow                                üflemek
+blue                                mavi
+board                               tahta
+boat                                bot, sal
+body                                vücud
+boil                                yað
+bomb                                bomba, patlamak
+bone                                kemik
+book                                kitap
+boot                                bot, tekmelemek
+border                              sýnýr
+bored                               sýkýlmýþ
+boring                              sýkýcý
+born                                doðmuþ
+borrow                              ödünç almak
+both                                ikiside
+bottle                              þiþe
+bottom                              kýç
+bowl                                kase, tas
+box                                 kutu
+boy                                 erkek çocuk
+brain                               beyin
+branch                              þube, dal
+brave                               cesur
+bread                               ekmek
+break                               ara, mola, tenefüs
+breakfast                           kahvaltý
+breast                              meme
+breath                              nefes
+breathe                             nefes almak
+breed                               üretmek, beslemek
+brick                               tuðla
+bridge                              köprü
+bright                              parlak
+bring                               getirmek
+broad                               geniþ
+broadcast                           radyo yayýný
+brother                             erkek kardeþ
+brown                               kahverengi
+brush                               fýrçalamak
+build                               inþa etmek
+building                            bina
+bullet                              mermi
+burn                                yanmak
+brust                               vahþi
+bury                                gömmek
+bus                                 otobüs
+bush                                çalý
+business                            mühendis
+busy                                meþgul
+but                                 ama
+butter                              tereyaðý
+button                              buton, düðme
+buy                                 satýn almak
+by                                  ile,-e kadar yakýnýnda
+vaccine program                     asi programi(IBM)
+vacuum                              bosluk(IBM)
+valid                               geçerli(MS)
+Valid                               Geçerli(MAC)(MS)
+valid signal                        geçeri sinyal(MAC)
+validate                            geçerligini denetlemek, onaylamak(IBM)
+validation check                    geçerlik denetimi(IBM)
+validation test                     geçerlik sinamasi(IBM)
+validity                            geçerlik(IBM)
+value                               deger(IBM)(MS)(MAC)
+value added network                 deger katkili ag(IBM)
+Value Axis                          Deger Ekseni(MAC)
+variable                            degisken(IBM)(MAC)(MS)
+variable name                       degisken adi(MS)
+variable-height character           degisken-boylu karakter(MS)
+vary off                            kullanilmaz kilmak(IBM)
+vary on                             kullanilir kilmak(IBM)
+vary-off                            kapa(t)mak(IBM)
+vary-on                             açmak(IBM)
+vector                              vektör(IBM) vektör, yöney(MAC)
+vector graphic                      vektörel grafik(MS)
+vector symbol set(VSS)              Vektör Simge Takimi(IBM)
+vectorial                           vektöryel(IBM)
+vendor                              satici, saglayici(IBM)
+vendor logo program                 saglayici sirket adi altinda pazarlanan program(IBM)
+Venn diagram                        Venn semasi(IBM)
+verification test                   dogrulama sinamasi(IBM)
+verify                              dogrulamak(IBM) dogrulama, sinama(MAC)
+Verifying Format...                 Format inceleniyor...(MAC)
+Verifying:                          incelenen:(MAC)
+versatile                           çok yönlü(IBM)
+version                             baski, uyarlama(IBM) sürüm(MAC)(MS)
+version data                        veri uyarlamasi(MAC)
+Version Number                      Sürüm Numarasi(MS)
+vertical                            düsey(IBM)(MAC)(MS)
+Vertical Alignment                  Düsey Hizalama(MS)
+Vertical binding                    Düsey ciltleme(MS)
+Vertical hold                       düsey tutma(MAC)
+Vertical justification              Düsey bloklama(MS)
+Vertical lines                      Düsey çizgiler(MS)
+vertical redundancy check           dikey hata denetimi(IBM)
+Vertical rule                       Düsey kural(MAC)
+Vertical scroll                     Düsey kaydirma(MS)
+Vertical Scroll Bar                 Düsey Kaydirma Çubugu(MS)
+Vertical scrolling                  Düsey kaydirma(MS)
+Vertical size                       Düsey boyut(MAC)
+vertical spacing                    düsey bosuk(MAC)
+Vertical tabbing                    Düsey tab(MAC)
+Vertical two-headed Arrow           Çift basli düsey ok(MS)
+Vertical-feed envelope              Yaziciya dik giren zarf(MS)
+Vertically                          Düsey (olarak)(MS)
+Very Slow                           Çok Yavas(MAC)
+video                               görüntü(MAC)
+Video cable                         görünü kablosu(MAC)
+video card                          görüntü karti(MAC)
+Video Controller                    Görüntü Yönetici(MAC)
+video driver                        görüntü sürücüsü(MAC)
+Video Graphics Adapter              Video Grafik Bagdastirici(IBM)
+Video Graphics Array(VGA)           Video Grafik Dizisi(IBM) VGA Ekran Karti(MS)
+Video jack                          Görüntü baglantisi(MAC)
+video mode                          video kipi(IBM)
+video monitor                       görüntü monitörü(MAC)
+video port                          görüntü kapisi(MAC)
+Video screen                        Görüntü ekrani(MAC)
+video signal                        görüntü sinyali(MAC)
+videoconferencing                   video toplanti(IBM)
+view                                görünüm, görüntüleme(IBM) Görüntüle(MAC);Bakmak / Görüntülemek(MS)
+View angle                          Görüntüleme açisi(MAC)
+View Another                        Digerini Görüntüle(MAC)
+View level                          Görünüm düzeyi(MS)
+View menu                           Görüntüle menüsü(MAC)
+Viewing scale                       Görüntüleme ölçegi(MAC)
+viewpoint                           görüs(IBM)
+viewport                            görüntü kapisi(MAC)
+Views control panel                 Görüntüler denetim masasi(MAC)
+virtual                             varsayilan(IBM)
+virtual address                     varsayilan adres(IBM)
+virtual disk                        varsayilan disk(IBM)
+virtual drive                       varsayilan sürücü(IBM)
+virtual memory                      görüntü bellek(MAC)
+virtual printer                     varsayilan yazici(IBM)
+virus                               virüs(IBM)
+vision                              görüs(IBM)
+visual                              görsel(IBM)
+voice                               ses(IBM)
+Voice input                         Ses girisi(MAC)
+Voice input device                  Ses giris aygiti(MAC)
+voice recognition                   ses tanima(MAC)
+voice synthesizer                   ses birlestirici(IBM)
+voice-grade channel                 ses kanali(IBM)
+void                                geçersiz(IBM)
+volatile                            oynak(IBM)
+volatility                          oynaklik(IBM)
+volume                              oylum, cilt, birim(IBM) oylum, Ses Ayari(MAC)
+volume attributes                   oylum özellikleri(MAC)
+volume bitmap                       oylum ikil izdüsümü(MAC)
+volume directory                    oylum rehberi(MAC)
+Volume Info                         Oylum bilgisi(MAC)
+volume is locked                    oylum kiliti(MAC)
+volume label                        birim etiketi(IBM) oylum etiketi(MAC)
+Volume list                         Oylum listesi(MAC)
+volume name                         oylum adi(MAC)
+Volume Report                       Oylum Raporu(MAC)
+volume serial number                birim dizi numarasi(IBM)
+Volume summary                      Oylum özeti(MAC)
+Volumes menu                        Oylumlar menüsü(MAC)
+cake                                kek
+calculate                           heaplamak
+call                                çaðýrmak, seslenmek
+calm                                sakin olmak
+camera                              fotðraf makinasý
+camp                                kamp kurmak
+can                                 e bilmek
+cap                                 kep
+capital                             baþkent
+car                                 araba
+card                                kart
+care                                bakým, umursamak
+careful                             dikkatli
+careless                            dikkatsiz
+carrige                             havuç
+carry                               taþýmak
+case                                kutu,durum
+castle                              kale
+cat                                 kedi
+catch                               yakalamak
+catlle                              sýðýr
+cause                               neden olmak
+ceiling                             tavan
+celebrate                           bayram
+cell                                satmak
+central                             merkezi
+centre                              merkez
+century                             yüzyýl
+ceremony                            tören
+certain                             kesin
+chain                               zincir
+chair                               sandalye
+chance                              þans, fýrsat
+change                              deðiþtirmek
+character                           karakter
+charge                              þarj etmek
+chase                               kovalamak
+cheap                               ucuz
+cheat                               kopya çekmek,aldatmak
+check                               kontrol etmek
+cheek                               yanak
+cheerful                            neþeli 
+cheese                              peynir
+chemical                            týbbi
+chemistry                           kimya
+cheque                              çek
+chest                               göðüs
+chicken                             tavuk
+chief                               þef
+child                               çocuk
+children                            çocuklar
+chin                                çene
+chocolate                           çikolata
+choice                              seçim
+choose                              seçmek
+church                              kilise
+cigarette                           sigara
+cinema                              cinema
+circle                              daire
+circular                            dairesel
+citizen                             vatandaþ
+city                                þehir
+claim                               iddia etmek, talep etmek
+class                               sýnýf
+clay                                kil
+clean                               temiz
+clear                               temizlemek
+clever                              akýllý
+cliff                               tepe
+climb                               týrmanmak
+clock                               saat
+close                               kapalý
+cloth                               örtü, kýlýf
+clothes                             elbise
+clothing                            giyecek
+cloud                               bulut
+clup                                klup
+coal                                kömür
+coast                               sahil, yokuþ aþaðý kaymak
+coat                                kot
+coffee                              kahve
+coin                                katýlmak
+cold                                soðuk
+collar                              yaka, tasma
+collect                             toplamak
+college                             kolej
+colour                              renk
+comb                                tarak
+combination                         bileþim
+combine                             birleþtirmek
+come                                gelmek
+comfort                             konfor
+comfortable                         konforlu
+command                             emretmek, komuta
+committee                           komite
+common                              olaðan, genel, müþterek
+communicate                         haberleþmek
+communication                       iletiþim
+company                             kampanya
+compare                             karþýlaþtýrmak
+comparison                          karþýlaþtýrmak
+compete                             rekabet etmek
+competition                         yarýþma
+competitor                          rakip
+complain                            þikayet etmek
+complaint                           þikayet
+complete                            tam, bitirmek
+completely                          tamamen
+complicated                         anlaþýlmasý güç
+compound                            bileþim
+computer                            bilgisayar
+concern                             kaygýlanmak, ilgilendirmek
+concerning                          iliþkin
+concert                             konser
+condition                           koþullandýrmak
+confidence                          güven
+confident                           kendinden emin
+confuse                             karýþtýrmak
+connect                             baðlanmak
+connection                          baðlantý
+conscious                           bilinçli
+consider                            iyice düþünmek
+consist                             ibaret olmak
+contain                             içermek
+container                           içerik
